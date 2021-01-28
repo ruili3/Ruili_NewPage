@@ -1,9 +1,9 @@
 ---
 widget: contact
-widget_id: ./contact
+widget_id: con
 headless: true
 weight: 130
-title: Contact
+title: fuck
 subtitle: null
 content:
   autolink: true

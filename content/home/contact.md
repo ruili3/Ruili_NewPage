@@ -1,6 +1,6 @@
 ---
 widget: contact
-widget_id: RECENT-POSTS
+widget_id: ./contact
 headless: true
 weight: 130
 title: Contact

@@ -16,4 +16,3 @@ content:
 design:
   columns: "2"
 ---
-lirui.david@gmail.com

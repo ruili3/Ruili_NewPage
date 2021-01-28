@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: ./pulications
+widget_id: pub
 headless: true
 weight: 80
 title: Selected Publications

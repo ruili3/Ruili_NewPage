@@ -39,7 +39,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I'm a second-year PhD candidate of Northwestern Polytechnicl University (NWPU), advised by professor [Yanning Zhang] (https://teacher.nwpu.edu.cn/m/en/1999000059.html). I obtained my M.S. and B.S. degree in NWPU in 2016 and 2019.
+I'm a second-year PhD candidate of Northwestern Polytechnicl University (NWPU), advised by professor [Yanning Zhang](https://teacher.nwpu.edu.cn/m/en/1999000059.html). I obtained my M.S. and B.S. degree in NWPU in 2016 and 2019.
 
 My research interests lie in 3D scene perception, including depth estimation, 3D modeling and 6DoF pose estimation.
 

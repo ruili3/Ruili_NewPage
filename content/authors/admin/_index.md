@@ -2,7 +2,7 @@
 title: Rui Li
 role: PhD candidate of NWPU
 avatar_filename: avatar.jpg
-bio: My research interests include depth estimation, 3D modeling and 6DoF pose
+bio: My research interests include depth estimation, 3D modeling and 6-DoF pose
   estimation.
 interests:
   - Artificial Intelligence
@@ -41,6 +41,6 @@ highlight_name: false
 ---
 I'm a second-year PhD candidate of Northwestern Polytechnicl University (NWPU), advised by professor [Yanning Zhang](https://teacher.nwpu.edu.cn/m/en/1999000059.html). I obtained my M.S. and B.S. degree in NWPU in 2016 and 2019.
 
-My research interests lie in 3D scene perception, including depth estimation, 3D modeling and 6DoF pose estimation.
+My research interests lie in 3D scene perception, including depth estimation, 3D modeling and 6-DoF pose estimation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

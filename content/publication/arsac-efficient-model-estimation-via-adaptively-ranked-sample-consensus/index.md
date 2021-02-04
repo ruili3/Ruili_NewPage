@@ -25,6 +25,18 @@ abstract: RANSAC is a popular robust model estimation algorithm in various
   epipolar geometry estimation. Experiments on both synthetic and real-world
   data demonstrate the superiority in efficiency and robustness of the proposed
   algorithm compared to the state-of-the-art methods.
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0925231218309548
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
 draft: false
 featured: false
 image:

@@ -9,8 +9,8 @@ authors:
   - Haisen Li
   - Jinqiu Sun
   - Yanning Zhang
-publication: Neurocomputing
-publication_short: Neurocomputing
+publication: Neurocomputing 2018
+publication_short: Neurocomputing 2018
 abstract: Blind image deblurring aims to recover the sharp image from a blurred
   observation, which is an ill-posed inverse problem. Proper image priors for
   the unknown variables (i.e. latent sharp image and blur kernel) are crucial.

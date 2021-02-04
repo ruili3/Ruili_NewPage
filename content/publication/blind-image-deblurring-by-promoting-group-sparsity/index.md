@@ -29,11 +29,23 @@ abstract: Blind image deblurring aims to recover the sharp image from a blurred
   properties of the regularizers and the convergence property of the proposed
   algorithm. Experiments with both quantitative and visual comparison further
   prove the effectiveness of the proposed method.
+# links:
+# - name: ""
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'gsdeblur.png'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
 draft: false
 featured: false
 image:
   filename: gsdeblur.png
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
   caption: Visualization of the locally clustering group pattern for image gradients
 date: 2018-06-01T12:57:00.000Z

@@ -1,6 +1,5 @@
 ---
-title: "Learning Depth via Leveraging Semantics: Self-supervised Monocular Depth
-Estimation with Both Implicit and Explicit Semantic Guidance"
+title: "Learning Depth via Leveraging Semantics: Self-supervised Monocular Depth Estimation with Both Implicit and Explicit Semantic Guidance"
 publication_types:
   - "1"
 authors:

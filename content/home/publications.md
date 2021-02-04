@@ -17,5 +17,5 @@ content:
     author: ""
     exclude_featured: true
 design:
-  view: 3
+  view: 2
 ---

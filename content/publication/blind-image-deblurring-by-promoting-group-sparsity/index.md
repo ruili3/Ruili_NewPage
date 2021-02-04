@@ -44,7 +44,7 @@ url_video: ''
 draft: false
 featured: false
 image:
-  filename: gsdeblur.png
+  #filename: gsdeblur.png
   focal_point: ""
   preview_only: false
   caption: Visualization of the locally clustering group pattern for image gradients

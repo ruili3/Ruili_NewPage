@@ -43,4 +43,4 @@ I'm a second-year PhD candidate of Northwestern Polytechnicl University (NWPU), 
 
 My research interests lie in 3D scene perception, including depth estimation, 3D modeling and 6-DoF pose estimation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/RuiLi_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

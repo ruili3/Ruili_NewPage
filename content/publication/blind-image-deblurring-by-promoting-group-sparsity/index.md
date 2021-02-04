@@ -32,8 +32,9 @@ abstract: Blind image deblurring aims to recover the sharp image from a blurred
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: gsdeblur.png
   focal_point: Smart
   preview_only: false
-date: 2021-01-28T12:57:23.826Z
+  caption: Visualization of the locally clustering group pattern for image gradients
+date: 2018-06-01T12:57:00.000Z
 ---

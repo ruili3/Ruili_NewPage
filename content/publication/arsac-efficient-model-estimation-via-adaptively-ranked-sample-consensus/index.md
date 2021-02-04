@@ -3,7 +3,7 @@ title: "ARSAC: Efficient Model Estimation via Adaptively Ranked Sample Consensus
 publication_types:
   - "2"
 authors:
-  - **Rui Li**
+  - Rui Li
   - Jinqiu Sun
   - Dong Gong
   - Yu Zhu

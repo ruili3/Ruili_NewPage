@@ -32,8 +32,8 @@ abstract: Blind image deblurring aims to recover the sharp image from a blurred
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'gsdeblur.png'
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0925231218305629
+url_bibtex: 'gsdeblur.bib'
 url_dataset: ''
 url_poster: ''
 url_project: ''

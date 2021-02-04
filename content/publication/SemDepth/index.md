@@ -32,5 +32,5 @@ image:
   filename: featured.jpg
   focal_point: ""
   preview_only: false
-date: 2021-2-10T12:00:00.000Z
+date: 2021-02-10T12:00:00.000Z
 ---

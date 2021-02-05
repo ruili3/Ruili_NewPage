@@ -1,9 +1,7 @@
 ---
 title: Efficient and Robust Structure-from-Motion
-summary: "This project improves the SFM by proposing efficient robust estimation method as well as a robust
-and accurate hybrid SFM pipeline."
+summary: This project improves the SFM by proposing efficient robust estimation method as well as a robust and accurate hybrid SFM pipeline.
 tags: 
-""
 # - Deep Learning
 date: "2018-12-15T00:00:00Z"
 

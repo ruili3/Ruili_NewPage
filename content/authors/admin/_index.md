@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include depth estimation, 3D modeling and 6-DoF pose
   estimation.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Depth Estimation
+  - 3D Modeling
+  - 6-DoF Pose Estimation
 social:
   - icon: envelope
     icon_pack: fas

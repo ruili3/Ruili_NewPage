@@ -34,5 +34,5 @@ Structure-from-motion (SFM) is a longstanding problem in 3D computer vision, it 
 In this project, we aim to address the challenges of structure-from-motion (SFM) in two aspects. Firstly, we focus on the outlier removal procedure in the SFM pipeline, we propose an efficient variant of RANSAC which adaptively incorporate new samples into estimation to improve the convergence speed of robust estimation. Then, we improve the conventional SFM by integrating the advantages of both incremental and global SFM, leading to a new type of robust and accruate hybrid SFM pipeline. Experimental results show the effectiveness of the proposed methods.
 
 >**Related Papers**
->1. [ARSAC: Efficient Model Estimation via Adaptively Ranked Sample Consensus]({{ < ref "publication/arsac-efficient-model-estimation-via-adaptively-ranked-sample-consensus/index.md" > }})
+>1. [ARSAC: Efficient Model Estimation via Adaptively Ranked Sample Consensus](../../publication/arsac-efficient-model-estimation-via-adaptively-ranked-sample-consensus/index.md)
 >2. [Robust and Accurate Hybrid Structure-From-Motion](#publication/arsac-efficient-model-estimation-via-adaptively-ranked-sample-consensus)

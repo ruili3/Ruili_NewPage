@@ -35,4 +35,4 @@ In this project, we aim to address the challenges of structure-from-motion (SFM)
 
 >**Related Papers**
 >1. [ARSAC: Efficient Model Estimation via Adaptively Ranked Sample Consensus](../../publication/arsac-efficient-model-estimation-via-adaptively-ranked-sample-consensus/)
->2. [Robust and Accurate Hybrid Structure-From-Motion](#publication/arsac-efficient-model-estimation-via-adaptively-ranked-sample-consensus)
+>2. [Robust and Accurate Hybrid Structure-From-Motion](../../publication/robust-and-accurate-hybrid-structure-from-motion/)

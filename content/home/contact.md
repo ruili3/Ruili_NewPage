@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: news
+widget_id: contact
 headless: true
 weight: 100
-title: News
+title: Contact
 subtitle: ""
 design:
   view: 4

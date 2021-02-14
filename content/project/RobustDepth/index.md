@@ -36,4 +36,4 @@ In this project, we aim to improve the robustness of self-supervised depth estim
 
 
 >**Related Papers**
->1. [Enhancing Self-supervised Monocular Depth Estimation via Incorporating Robust Constraints](../../publication/depthDCE/)
+>1. [Enhancing Self-supervised Monocular Depth Estimation via Incorporating Robust Constraints](../../publication/depthdce/)

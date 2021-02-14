@@ -35,5 +35,5 @@ In this project, we enhance the depth estimation by leveraing the advantages of 
 
 
 >**Related Papers**
->1. [Semantic-Guided Representation Enhancement for Self-supervised Monocular Trained Depth Estimation](../../publication/SEEDepth/)
->1. [Learning Depth via Leveraging Semantics: Self-supervised Monocular Depth Estimation with Both Implicit and Explicit Semantic Guidance](../../publication/SemDepth/)
+>1. [Semantic-Guided Representation Enhancement for Self-supervised Monocular Trained Depth Estimation](../../publication/seedepth/)
+>1. [Learning Depth via Leveraging Semantics: Self-supervised Monocular Depth Estimation with Both Implicit and Explicit Semantic Guidance](../../publication/semdepth/)

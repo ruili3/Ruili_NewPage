@@ -30,7 +30,7 @@ abstract: Self-supervised depth estimation has made a great success in learning
   either on complex scenes or diverse semantic categories, and outperforms the
   state-of-the-art methods by a significant margin.
 draft: false
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2102.06685"
 url_dataset: ""
 url_project: ""
 url_source: ""

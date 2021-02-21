@@ -10,7 +10,8 @@ authors:
   - Yu Zhu
   - Jinqiu Sun
   - Yanning Zhang
-publication_short: #(Will be available soon)
+publication: arXiv preprint arXiv:2102.06685
+publication_short: arXiv:2102.06685
 abstract: Self-supervised depth estimation has made a great success in learning
   depth from unlabeled image sequences. While the mappings between image and
   pixel-wise depth are well-studied in current methods, the correlation between
